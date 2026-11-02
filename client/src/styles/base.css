@@ -1,0 +1,4 @@
+/* CSS thuần */
+.banner { background: #0a7d3c; color: #fff; text-align: center; padding: 8px; cursor: pointer; font-size: 14px }
+.banner:focus-visible, button:focus-visible, a:focus-visible { outline: 3px solid #FDB913; outline-offset: 2px }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto !important } }
